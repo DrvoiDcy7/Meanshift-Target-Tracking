@@ -11,7 +11,10 @@
   <br />
   Schematic diagram of Meanshift
   <br />
-  ![meanshift](https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/fig1.jpg)
+  <div align=center>
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/fig1.jpg">
+  </div>
+  <br/>
   <br />
   ### Step 1  
   Execute preprocess.m file to extract frame pictures from videos.  
@@ -74,9 +77,9 @@ end
 	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/lab2/fig11.jpg">
   </div>
   <br/>
-  It can be concluded that the target has shifted to the black zone between the car and the light. Not correct any more.  
-  <br />
-  Then we select the man who is pushing the cart as the target.  
+    It can be concluded that the target has shifted to the black zone between the car and the light. Not correct any more.  
+    <br/>
+    Then we select the man who is pushing the cart as the target.    
   <br />
   <div align=center>
 	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/lab2/fig12.jpg">
