@@ -5,7 +5,7 @@
 
   ### Introduction
   This project implemented Meanshift algorithm to track down the movement of a target using Matlab.  
-  It includes 2 labs, corresponding to successfull (lab1) and failed (lab2) result respectively.  
+  It includes 2 labs, corresponding to **successfull (lab1)** and **failed (lab2)** result respectively.  
   <br />
   To understand Meanshift algorithm, refer to [Wikipedia](https://en.wikipedia.org/wiki/Mean_shift) for details.   
   <br />
@@ -23,4 +23,4 @@ for k = 1 : 200
 end
   ```
   <br />
-  ### Analysis of Results
+  # Analysis of Results
