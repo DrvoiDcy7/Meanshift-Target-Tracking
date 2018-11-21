@@ -2,8 +2,9 @@
   Implement meanshift to track target, analyze good and bad performances  
   
   ```
+  Signal valuation and detection
   Chengyuan Deng
-  College of Electrical Information Engineering
+  College of Electrical & Information Engineering
   Tongji University  
   2017.11
   ```  
