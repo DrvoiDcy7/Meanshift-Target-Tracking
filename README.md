@@ -9,10 +9,11 @@
   <br />
   To understand Meanshift algorithm, refer to [Wikipedia](https://en.wikipedia.org/wiki/Mean_shift) for details 
   <br />
-  Schematic diagram of Meanshift:
+  Schematic diagram of Meanshift
+  <br />
   ![meanshift](https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/fig1.jpg)
   <br />
-  
+  ##### First Step  
   Execute preprocess.m file to extract frame pictures from videos.  
   ```matlab
 obj = VideoReader('D:/matlab/data/meanshift/Mean shift tracking 3.mp4');
