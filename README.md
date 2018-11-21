@@ -58,7 +58,7 @@ end
 	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/lab1/fig8.jpg">
   </div>
   <br/>
-  After compared with the original video, the tracking is correct and accurate.
+  After compared with the original video, the tracking is `correct and accurate`.
   ### Lab 2
   Lab 2 is a comparative occasion when meanshift have a bad performance on tracking.  
   We choose a video with a man pushing a cart in the dark.  
@@ -77,7 +77,7 @@ end
 	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/lab2/fig11.jpg">
   </div>
   <br/>
-    It can be concluded that the target has shifted to the black zone between the car and the light. Not correct any more.  
+    It can be concluded that the target has shifted to the black zone between the car and the light. `Not correct` any more.  
     <br/>
     Then we select the man who is pushing the cart as the target.    
   <br />
@@ -89,4 +89,4 @@ end
 	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/lab2/fig13.jpg">
   </div>
   <br/>
-  The result indicates that the target is still correct, but the locus on the top has an unexpected traverse, which may be caused by lens shake, or occasional mistake on the target judgement.  
+  The result indicates that the target is `still correct`, but `not definitely accurate`, since the locus on the top has an unexpected traverse, which may be caused by lens shake, or occasional mistake on the target judgement.  
