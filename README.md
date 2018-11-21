@@ -13,7 +13,7 @@
   <br />
   ![meanshift](https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/fig1.jpg)
   <br />
-  #### First Step  
+  ### First Step  
   Execute preprocess.m file to extract frame pictures from videos.  
   ```matlab
 obj = VideoReader('D:/matlab/data/meanshift/Mean shift tracking 3.mp4');
@@ -23,4 +23,4 @@ for k = 1 : 200
 end
   ```
   <br />
-  #### Analysis of Results
+  ### Analysis of Results
