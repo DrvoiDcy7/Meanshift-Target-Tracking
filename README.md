@@ -1,7 +1,12 @@
 # Meanshift-Target-Tracking
   Implement meanshift to track target, analyze good and bad performances  
-  College of Electrical Information Engineering, Tongji University  
-  Chengyuan Deng, 2017  
+  
+  ```
+  Chengyuan Deng
+  College of Electrical Information Engineering
+  Tongji University  
+  2017.11
+  ```  
 
   ### Introduction
   This project implemented Meanshift algorithm to track down the movement of a target using Matlab.  
