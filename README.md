@@ -14,8 +14,8 @@
   <div align=center>
 	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Meanshift-Target-Tracking/master/img/fig1.jpg">
   </div>
-  <br/>
   <br />
+  
   ### Step 1  
   Execute preprocess.m file to extract frame pictures from videos.  
   ```matlab
@@ -59,6 +59,7 @@ end
   </div>
   <br/>
   After compared with the original video, the tracking is `correct and accurate`.
+  
   ### Lab 2
   Lab 2 is a comparative occasion when meanshift have a bad performance on tracking.  
   We choose a video with a man pushing a cart in the dark.  
